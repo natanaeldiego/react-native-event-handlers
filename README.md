@@ -1,6 +1,6 @@
 ## Exemplo de State e Ciclo de Vida
 
-## Error State and Lifecycle
+## Example State and Lifecycle
 
 ## Screen Preview
 
